@@ -14,6 +14,7 @@ public class Semestralka {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        dsadsdasd
+        System.out.println("Login: ");
+        System.out.println("zadej ip adresu druheo uzivatele");
     }
 }
