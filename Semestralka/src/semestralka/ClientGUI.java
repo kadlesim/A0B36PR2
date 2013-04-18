@@ -12,7 +12,7 @@ import javax.swing.*;
  */
 public class ClientGUI extends JFrame{
     
-    static JButton send, sendF;
+    static JButton send, sendF, fff;
 //    static JTextPane recived, toSend;
     static TextArea recived, toSend;
     

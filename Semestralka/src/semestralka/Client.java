@@ -12,5 +12,6 @@ public class Client {
     public static void main(String[] args) {
         ClientGUI o= new ClientGUI();
         o.setVisible(true);
+        System.out.println("asdasd");
     }
 }

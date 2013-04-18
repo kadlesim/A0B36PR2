@@ -15,6 +15,6 @@ public class Semestralka {
      */
     public static void main(String[] args) {
         ClientGUI o= new ClientGUI();
-        o.setVisible(true);
+        o.setVisible(true);System.out.println("asdasd");
     }
 }
